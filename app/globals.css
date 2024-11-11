@@ -1,0 +1,14 @@
+:root {
+    --bg-color: #ddddff;
+}
+
+body {
+    background-color: var(--bg-color);
+    opacity: 0.8;
+    background-image: radial-gradient(#000dff 0.55px, #ddddff 0.55px);
+    background-size: 11px 11px;
+}
+
+.bricolage_grotesque {
+    font-family: var(--font-bricolage);
+}
